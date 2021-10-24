@@ -1,5 +1,6 @@
 # OrangeCloud
 This is a pigtail game.
+可编译文件和可执行程序放在release里
 
 #徽章
 使用Python语言
